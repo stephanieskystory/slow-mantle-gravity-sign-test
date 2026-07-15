@@ -16,12 +16,6 @@ This is a conditional coefficient-space result. It does not directly determine i
 paper/
     Buchanan_When Gravity Favors a Lighter Slow Mantle.pdf
 
-audit/
-    reproducibility_audit.txt
-    calculation_checks.csv
-    source_hash_audit.csv
-    qualification_registry.txt
-
 data/
     degree2_gravity_product_summary.csv
     mantle_model_degree2_predictions.csv
