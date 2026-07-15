@@ -130,14 +130,7 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-## File integrity and audit trail
-
-The `audit/` directory records:
-
-- source-file hashes;
-- numerical comparison checks;
-- reproducibility findings;
-- statements that require explicit qualification.
+## File integrity and validation
 
 The `validation/` directory contains the archived outputs against which the standalone reconstruction was checked.
 
