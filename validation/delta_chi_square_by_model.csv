@@ -1,0 +1,9 @@
+branch_id,model_key,subset,delta_chi2_positive_favors_reversed,favored_constrained_sign,strength_rule,strength_class
+R_compatible_central,S40RTS,A_full_mantle,333257866796530.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
+R_compatible_central,TX2011,A_full_mantle,797920118296441.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
+R_compatible_central,SEISGLOB2,A_full_mantle,26883655466839.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
+R_compatible_central,SPani,A_full_mantle,964557923345743.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
+R_compatible_central,SEMUCB_WM1,A_full_mantle,831191056637223.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
+R_compatible_central,CSEM2_Globe_RHO,A_full_mantle,1667511639429841.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
+R_compatible_central,CSEM2_Globe_VSV,A_full_mantle,-67198477713961.0,adopted,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_adopted
+R_compatible_central,UNICA25_absolute_Vp,A_full_mantle,166040495686998.0,reversed,"|delta_chi2| >= 6 strong; >=2 moderate; otherwise weak, conditional on covariance and n=5",strong_reversed
